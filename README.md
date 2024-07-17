@@ -1,5 +1,5 @@
-# lottery_app
-
+# Basic lottery_app
+In this Flutter project i take the input 5 and then i press the floating action button if the app screen has 5 show then i won the lottery otherwise not 
 A new Flutter project.
 
 ## Getting Started
